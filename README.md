@@ -44,3 +44,5 @@ Each service is decoupled and coordinated through the orchestrator.
 ### Build
 ```bash
 g++ src/main.cpp src/orchestrator/CheckoutOrchestrator.cpp -o checkout
+.\checkout.exe   # Windows PowerShell
+
